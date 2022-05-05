@@ -1,0 +1,14 @@
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\bin\Debug\netcoreapp3.1\Tinh_ke_thua.exe
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\bin\Debug\netcoreapp3.1\Tinh_ke_thua.deps.json
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\bin\Debug\netcoreapp3.1\Tinh_ke_thua.runtimeconfig.json
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\bin\Debug\netcoreapp3.1\Tinh_ke_thua.runtimeconfig.dev.json
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\bin\Debug\netcoreapp3.1\Tinh_ke_thua.dll
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\bin\Debug\netcoreapp3.1\Tinh_ke_thua.pdb
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\obj\Debug\netcoreapp3.1\Tinh_ke_thua.csproj.AssemblyReference.cache
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\obj\Debug\netcoreapp3.1\Tinh_ke_thua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\obj\Debug\netcoreapp3.1\Tinh_ke_thua.AssemblyInfoInputs.cache
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\obj\Debug\netcoreapp3.1\Tinh_ke_thua.AssemblyInfo.cs
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\obj\Debug\netcoreapp3.1\Tinh_ke_thua.csproj.CoreCompileInputs.cache
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\obj\Debug\netcoreapp3.1\Tinh_ke_thua.dll
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\obj\Debug\netcoreapp3.1\Tinh_ke_thua.pdb
+C:\Users\Ahjhj\source\repos\OOP\Tinh_ke_thua\Tinh_ke_thua\obj\Debug\netcoreapp3.1\Tinh_ke_thua.genruntimeconfig.cache
